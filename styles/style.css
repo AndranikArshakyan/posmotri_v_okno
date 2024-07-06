@@ -109,6 +109,7 @@ a {
 .content__video-card-thumbnail {
   width: 194px;
   height: 103px;
+  object-fit: cover;
 }
 
 .content__video-card-description-container {
@@ -153,7 +154,7 @@ a {
   padding-left: 0;
   outline: none;
   color: #fff;
-  font-family: "Oswald", sans-serif;
+  font-family: "Fira Sans Condensed", sans-serif;
   font-weight: 400;
   font-size: 18px;
   background-color: transparent;
