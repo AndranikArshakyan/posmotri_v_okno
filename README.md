@@ -1,1 +1,1 @@
-https://github.com/AndranikArshakyan/posmotri_v_okno.git
+https://github.com/AndranikArshakyan/posmotri_v_okno
